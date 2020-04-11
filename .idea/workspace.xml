@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373284bc-ea9f-43a8-8377-e3996ac6b623" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Projects/fizzbuzz/FizzBuzz.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MarsTwo/MarsTwo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../helloscala2/helloscala2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../helloscala2/src/HelloScala.scala" afterDir="false" />
@@ -37,6 +39,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -52,7 +62,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenRunHelper" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="project.fizzbuzz" />
+    </key>
   </component>
   <component name="RunManager" selected="sbt Task.Run the program">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
