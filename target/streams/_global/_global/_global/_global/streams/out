@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [helloscala3 / Compile / run] Found inputs: /Users/xiaonandong/IdeaProjects/TW/HelloScala3/*.{java,scala},/Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/java/**/*.{java,scala},/Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/resources/**/*,/Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/**/*.{java,scala},/Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for helloscala3/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mhelloscala3 / Compile / run - Accepted event for /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala (previous stamp: Hash(5f88eab2b747ea675d36ae298c3c9fbfd3c0b392), current stamp: Hash(51768ce2cc0b42c6eac0fb6979f309401e74a483))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala -> Trigger. Returning: (Update(/Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala, 2020-Apr-09 09:20:20.342 CT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala, 2020-Apr-09 09:20:20.342 CT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for helloscala3/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mhelloscala3 / Compile / run - Accepted event for /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala (previous stamp: Hash(51768ce2cc0b42c6eac0fb6979f309401e74a483), current stamp: Hash(c96a9d8112fcc76a1ddfb8cd4410abb138eda822))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala -> Trigger. Returning: (Update(/Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala, 2020-Apr-09 09:20:37.748 CT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/Users/xiaonandong/IdeaProjects/TW/HelloScala3/src/main/scala/example/Main.scala, 2020-Apr-09 09:20:37.748 CT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for helloscala3/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
