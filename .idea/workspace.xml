@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373284bc-ea9f-43a8-8377-e3996ac6b623" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/example/Main.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MarsTwo/MarsTwo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../helloscala2/helloscala2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../helloscala2/src/HelloScala.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../helloscala2/src/Worksheet.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/example/FizzBuzz.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/example/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/example/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/helloscala3_2.13-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/helloscala3_2.13-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/_global/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/_global/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../guess-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../guess-number/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../guess-number/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../guess-number/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../guess-number/src/main/java/com/thoughtworks/guessnumber/Dependency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../guess-number/src/main/java/com/thoughtworks/guessnumber/Dependency.java" afterDir="false" />
@@ -27,7 +38,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -43,7 +54,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenRunHelper" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="sbt Task.Run the program">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="project.fizzbuzz.Main" />
+      <module name="HelloScala3-build" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.fizzbuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="HelloScala3" />
       <option name="VM_PARAMETERS" />
@@ -101,6 +125,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="sbt Task.Run the program" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -158,9 +191,33 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1586395176193" />
+    <state x="2378" y="237" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586591018447">
+      <screen x="1680" y="-150" width="1920" height="1200" />
+    </state>
+    <state x="2378" y="237" key="#com.intellij.ide.util.PackageChooserDialog/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586591018447" />
     <state x="567" y="232" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586394991371">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="567" y="232" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1586394991371" />
+    <state x="2414" y="316" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586591023018">
+      <screen x="1680" y="-150" width="1920" height="1200" />
+    </state>
+    <state x="2414" y="316" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586591023018" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1586589863108">
+      <screen x="1680" y="-150" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586589863108" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1586589863106">
+      <screen x="1680" y="-150" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.center/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586589863106" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1586589863105">
+      <screen x="1680" y="-150" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.left/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586589863105" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1586589863107">
+      <screen x="1680" y="-150" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.right/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586589863107" />
   </component>
 </project>
