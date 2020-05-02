@@ -2,24 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373284bc-ea9f-43a8-8377-e3996ac6b623" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Projects/fizzbuzz/FizzBuzz.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/example/BinaryClock.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/example/DaySequence.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/example/FizzBuzz.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/example/Main.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MarsTwo/MarsTwo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../helloscala2/helloscala2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../helloscala2/src/HelloScala.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../helloscala2/src/Worksheet.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/HelloScala3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/HelloScala3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$018c2001e1a80dae128b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$018c2001e1a80dae128b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$018c2001e1a80dae128b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$11e93c699302a32c59da$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$11e93c699302a32c59da.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$11e93c699302a32c59da.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$818db135751b7fa33612$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$818db135751b7fa33612.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$818db135751b7fa33612.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b23f8d7928a2e15c57c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b23f8d7928a2e15c57c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b23f8d7928a2e15c57c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/example/FizzBuzz.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Projects/fizzbuzz/FizzBuzz.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/example/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/example/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Projects/fizzbuzz/FizzBuzz$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Projects/fizzbuzz/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/example/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/example/Main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/example/Main$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/example/Main$delayedInit$body.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/helloscala3_2.13-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/helloscala3_2.13-0.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/_global/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/_global/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../guess-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../guess-number/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../guess-number/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../guess-number/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../guess-number/src/main/java/com/thoughtworks/guessnumber/Dependency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../guess-number/src/main/java/com/thoughtworks/guessnumber/Dependency.java" afterDir="false" />
@@ -70,63 +117,16 @@
       <recent name="project.fizzbuzz" />
     </key>
   </component>
-  <component name="RunManager" selected="sbt Task.Run the program">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="project.fizzbuzz.Main" />
-      <module name="HelloScala3-build" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.Main" />
+      <module name="HelloScala3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.fizzbuzz.*" />
+          <option name="PATTERN" value="example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="HelloScala3" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="HelloScala3" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -142,12 +142,12 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="sbt Task.Run the program" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -178,8 +178,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3172789895798" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="1624123592" />
+        <entry key="$PROJECT_DIR$" value="3172992819065" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1908590878" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1026143456" />
       </map>
     </option>
@@ -219,21 +219,57 @@
       <screen x="1680" y="-150" width="1920" height="1200" />
     </state>
     <state x="2414" y="316" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586591023018" />
-    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1586589863108">
+    <state x="2403" y="160" key="#xdebugger.evaluate" timestamp="1586596240855">
       <screen x="1680" y="-150" width="1920" height="1200" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.bottom/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586589863108" />
-    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1586589863106">
+    <state x="2403" y="160" key="#xdebugger.evaluate/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586596240855" />
+    <state width="1878" height="423" key="GridCell.Tab.0.bottom" timestamp="1588053949306">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1588053949306" />
+    <state width="1878" height="606" key="GridCell.Tab.0.bottom/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1587270968696" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/1680.-150.1920.1200/0.23.1680.1027@1680.-150.1920.1200" timestamp="1586597050509" />
+    <state width="1878" height="423" key="GridCell.Tab.0.center" timestamp="1588053949305">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1588053949305" />
+    <state width="1878" height="606" key="GridCell.Tab.0.center/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1587270968694" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center/1680.-150.1920.1200/0.23.1680.1027@1680.-150.1920.1200" timestamp="1586597050507" />
+    <state width="1878" height="423" key="GridCell.Tab.0.left" timestamp="1588053949305">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1588053949305" />
+    <state width="1878" height="606" key="GridCell.Tab.0.left/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1587270968693" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left/1680.-150.1920.1200/0.23.1680.1027@1680.-150.1920.1200" timestamp="1586597050507" />
+    <state width="1878" height="423" key="GridCell.Tab.0.right" timestamp="1588053949306">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1588053949306" />
+    <state width="1878" height="606" key="GridCell.Tab.0.right/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1587270968695" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right/1680.-150.1920.1200/0.23.1680.1027@1680.-150.1920.1200" timestamp="1586597050508" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom" timestamp="1588053949310">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1588053949310" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586597744948" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center" timestamp="1588053949309">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1588053949309" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586597744947" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left" timestamp="1588053949307">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1588053949307" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586597744947" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right" timestamp="1588053949309">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1588053949309" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586597744948" />
+    <state x="2305" y="121" width="670" height="676" key="search.everywhere.popup" timestamp="1586596561267">
       <screen x="1680" y="-150" width="1920" height="1200" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.center/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586589863106" />
-    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1586589863105">
-      <screen x="1680" y="-150" width="1920" height="1200" />
-    </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.left/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586589863105" />
-    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1586589863107">
-      <screen x="1680" y="-150" width="1920" height="1200" />
-    </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.right/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586589863107" />
+    <state x="2305" y="121" width="670" height="676" key="search.everywhere.popup/1680.-150.1920.1200/0.0.1680.1050@1680.-150.1920.1200" timestamp="1586596561267" />
   </component>
 </project>

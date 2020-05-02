@@ -1,4 +1,4 @@
-package Projects.fizzbuzz
+package example
 
 object FizzBuzz {
 
@@ -19,12 +19,10 @@ object FizzBuzz {
     }
   }
 
-  def execute(): Unit = {
-    for (num <- 1 to 20){
-      calFizzBuzz(num) match {
-        case Left(s) => println(s"Number is ${num}, FizzBuzz result is ${s}")
-        case Right(i) => println(s"Number is ${num}, FizzBuzz result is ${i}")
-      }
-    }
+  def execute(range: Range): Unit = {
+    range.foreach(num => calFizzBuzz(num) match {
+      case Left(s) => println(s"Number is ${num}, FizzBuzz result is ${s}")
+      case Right(i) => println(s"Number is ${num}, FizzBuzz result is ${i}")
+    })
   }
 }

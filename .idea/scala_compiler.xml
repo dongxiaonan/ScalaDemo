@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="helloscala3" />
+    <profile name="sbt 1" modules="HelloScala3,helloscala3" />
   </component>
 </project>
